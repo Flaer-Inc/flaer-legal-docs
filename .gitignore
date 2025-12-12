@@ -1,0 +1,9 @@
+# --- Env files ---
+.env
+.env*.local
+.env.*
+
+# --- macOS metadata ---
+.DS_Store
+.AppleDouble
+.LSOverride
