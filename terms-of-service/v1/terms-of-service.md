@@ -1,44 +1,44 @@
 **Flaer Terms of Service and User Agreement**
 
-- **Last Updated: December 2025**
+**Last Updated:** December 2025
 
-  **Summary of Key Points (Plain-Language Overview)**
-  _This summary is provided for convenience only. The full Terms of Service below are the legally binding agreement._
+**Summary of Key Points (Plain-Language Overview)**
+_This summary is provided for convenience only. The full Terms of Service below are the legally binding agreement._
 
-  • **What Flaer Is**
+- **What Flaer Is**
   Flaer allows Users to share authentic Instagram posts or stories about businesses and potentially earn money based on performance.
 
-  • **Data You Authorize**
+- **Data You Authorize**
   Flaer accesses only the Instagram data you explicitly grant permission for. This data is used to verify your content, retrieve insights, calculate rewards, and maintain platform integrity. Flaer does not track you across other apps or websites.
 
-  • **Your Agreement**
+- **Your Agreement**
   By using Flaer, you agree to these Terms, Instagram’s rules, and all content and safety policies. You may monetize only content you own that accurately represents the business you select.
 
-  • **Content and Safety Standards**
+- **Content and Safety Standards**
   Flaer does not allow or monetize adult content, violence, hate, illegal activity, or any content prohibited by Apple App Store Review Guidelines or Instagram policies.
 
-  • **How Rewards Work**
+- **How Rewards Work**
   Businesses fund their accounts using Stripe. You earn money only after Instagram insights are successfully retrieved and validated. Estimated rewards are not guaranteed.
 
-  • **Your Responsibilities**
+- **Your Responsibilities**
   You must maintain valid Instagram access. Deleting posts, revoking permissions, or violating policies may result in unrewarded Shares or account termination. Fraud, bots, fake engagement, or manipulation are strictly prohibited.
 
-  • **Advertiser Responsibilities**
+- **Advertiser Responsibilities**
   Businesses must maintain adequate credit balances, provide accurate information, and follow all advertising rules. Credit purchases are non-refundable unless required by law.
 
-  • **No Guaranteed Earnings**
+- **No Guaranteed Earnings**
   Reward amounts depend on actual post performance. Flaer does not guarantee that any User will earn money.
 
-  • **Third-Party Dependencies**
+- **Third-Party Dependencies**
   Flaer relies on Instagram, Stripe, AWS, and your device’s operating system. Outages, API limitations, or platform failures may affect functionality or reward calculations.
 
-  • **Your Rights**
+- **Your Rights**
   You may delete your Flaer account at any time. Flaer will remove your Instagram data unless retention is required for legal or audit purposes.
 
-  • **Dispute Resolution**
+- **Dispute Resolution**
   Users must attempt informal resolution first. U.S. Users agree to binding arbitration and waive participation in class actions.
 
-1. **Introduction**
+## 1. Introduction
 
 These Terms of Service (“Terms”) form a legally binding agreement between you (“User,” “you”) and **Flaer, Inc.**, a Delaware corporation (“Flaer,” “we,” “us,” or “our”).  
 These Terms apply to your use of:
@@ -63,7 +63,7 @@ If you do not agree to these Terms, you must not use Flaer.
 
 Flaer does not allow or monetize adult content, violence, hate, or any content prohibited by Apple App Store Review Guidelines or Instagram policies.
 
-### **1.1 Future Changes and Updates**
+### 1.1 Future Changes and Updates
 
 Flaer may update or modify these Terms, the Terms of Monetization, referral rules, pricing structures, reward formulas, Flaer’s platform fee (“cut”), algorithms, content eligibility policies, or advertiser credit requirements **at any time and at Flaer’s sole discretion**.
 
@@ -84,17 +84,17 @@ This includes Flaer’s right to:
 
 - restrict, expand, or eliminate features.
 
-### **1.2 Required Acceptance of Additional Terms**
+### 1.2 Required Acceptance of Additional Terms
 
 Users who monetize content must explicitly accept the **Terms of Monetization** before monetizing each piece of content.  
 If you decline, you may still use the app but cannot earn rewards.
 
-### **1.3 No Affiliation with Instagram**
+### 1.3 No Affiliation with Instagram
 
-Flaer is not endorsed by, affiliated with, or sponsored by **Instagram or Meta Platforms, Inc. **
+Flaer is not endorsed by, affiliated with, or sponsored by **Instagram or Meta Platforms, Inc.**
 Use of Flaer requires compliance with all applicable Meta platform rules and Instagram’s terms.
 
-### **1.4 Right to Suspend or Terminate**
+### 1.4 Right to Suspend or Terminate
 
 Flaer reserves the right to suspend, restrict, or terminate any account at its sole discretion, including cases involving:
 
@@ -112,12 +112,12 @@ Flaer reserves the right to suspend, restrict, or terminate any account at its s
 
 - or behavior inconsistent with platform integrity.
 
-### **1.5 Communication**
+### 1.5 Communication
 
 By using Flaer, you agree that we may send you important updates, policy changes, or system alerts within the apps or via email.  
 Flaer may display in-app announcements or promotional content but does not serve third-party ads.
 
-# **2. Definitions**
+## 2. Definitions
 
 For purposes of these Terms, the following definitions apply. Capitalized terms have the meanings described below.
 
@@ -176,8 +176,6 @@ If insights cannot be retrieved for any reason outside Flaer’s reasonable cont
 The definitive amount paid by an Advertiser after Instagram insights have been fetched at the end of the required period (7 days for posts, 23 hours 45 minutes for stories).
 
 If insights cannot be retrieved for any reason outside Flaer’s reasonable control, including but not limited to content deletion or account changes, the Final Price may be **zero**, meaning no credits will be deducted from the Advertiser’s credit balance.
-
-##
 
 ## **2.9 “Insights”**
 
@@ -246,20 +244,20 @@ This includes—but is not limited to—fake engagement, repeated reposting, aut
 
 Flaer may determine fraud at its sole discretion.
 
-**3. Use of the Service**
+## 3. Use of the Service
 
 By using Flaer, you agree to comply with all platform rules, eligibility requirements, and technical limitations described in these Terms.
 
 ## **3.1 Account Registration**
 
-\(a\) Users
+(a) Users
 
 To create a Flaer account, Users must initially authenticate through **Instagram**.  
 After registration, Users may log in using Instagram or supported secondary authentication methods, such as email.
 
 Users may maintain a Flaer account without an active Instagram connection; however, an Instagram connection is required to access certain features, including but not limited to monetization, content evaluation, and reward calculation.
 
-\(b\) Advertisers
+(b) Advertisers
 
 To create and access an Advertiser account, Advertisers must register and log in using an email address and password, or other methods expressly made available by Flaer.
 
@@ -291,7 +289,7 @@ Flaer may determine frequency patterns, spam, or manipulation at its sole discre
 
 A Share is created only if:
 
-1.  The User selects a business to monetize, **and **
+1.  The User selects a business to monetize, **and**
 
 2.  The Advertiser has sufficient available credits to fund the estimated reward.
 
@@ -399,7 +397,7 @@ Flaer is not liable for delays or failures caused by Instagram, Stripe, Appsflye
 Users must maintain the security of their login credentials.  
 Flaer is not responsible for unauthorized access resulting from User negligence.
 
-# **4. Content Rights & License**
+## 4. Content Rights & License
 
 ## **4.1 User Ownership**
 
@@ -568,7 +566,7 @@ If you delete the original Instagram post/story:
 
 Flaer retains the stored copy for audit purposes until you delete your account.
 
-**5. Prohibited Conduct**
+## 5. Prohibited Conduct
 
 You agree that you will not engage in, encourage, or assist others in engaging in any of the following prohibited activities while using Flaer. Violations of this section may result in the loss of rewards, removal of Shares, locked credit release, account suspension, permanent termination, legal action, or reporting to Instagram, Stripe, or other relevant platforms.
 
@@ -734,7 +732,7 @@ Flaer reserves the right to take any action it deems appropriate, including:
 
 Flaer has sole discretion in determining whether conduct violates these Terms.
 
-**6. Payment & Billing (High-Level)**
+## 6. Payment & Billing (High-Level)
 
 ## **6.1 Advertiser Payments and Credits**
 
@@ -892,7 +890,7 @@ Users and Advertisers are responsible for:
 
 Flaer does not withhold taxes on User payouts unless required by law.
 
-# **7. Termination & Suspension**
+## 7. Termination & Suspension
 
 ## **7.1 Termination by the User**
 
@@ -909,7 +907,7 @@ Account deletion is permanent and results in:
 
 - loss of access to current and future rewards.
 
-**All unpaid Shares are automatically forfeited upon account deletion. **
+**All unpaid Shares are automatically forfeited upon account deletion.**
 Once deleted, your account and associated rewards cannot be restored.
 
 ## **7.2 Termination by Flaer**
@@ -1235,7 +1233,7 @@ These policies may change at any time, and Flaer has **no control** over such ch
 
 Your use of Flaer constitutes agreement that Flaer is **not liable** for any issues caused by third parties.
 
-# **9. Third-Party Relationships, Platform Independence, and Communications**
+## 9. Third-Party Relationships, Platform Independence, and Communications
 
 ## **9.1 No Endorsement by Instagram or Meta**
 
@@ -1395,7 +1393,7 @@ Flaer reserves the right to expand or modify analytics delivery methods.
 
 No third party (including Instagram, Stripe, AWS, Appsflyer, Apple, Google, or Advertisers) is a party to these Terms, nor does any third party have rights to enforce them.
 
-# **10. Disclaimer of Warranties**
+## 10. Disclaimer of Warranties
 
 You understand and agree that your use of the Service is at your own risk.  
 To the maximum extent permitted by law, **Flaer provides the Service on an “as is,” “as available,” and “with all faults” basis**, without warranties of any kind.
@@ -1540,7 +1538,7 @@ Users and Advertisers rely on all information **at their own risk**.
 
 All implied warranties—including but not limited to merchantability, fitness for a particular purpose, title, and non-infringement—are expressly disclaimed.
 
-# **11. Limitation of Liability**
+## 11. Limitation of Liability
 
 To the maximum extent permitted by applicable law, **Flaer, Inc.**, its officers, directors, employees, contractors, agents, affiliates, and partners (“Flaer Parties”) shall not be liable for any indirect, incidental, consequential, special, exemplary, punitive, or enhanced damages arising out of or related to your use of the Service.
 
@@ -1706,7 +1704,7 @@ The limitations in this Section apply to:
 
 Some jurisdictions do not allow certain disclaimers; in such cases, the limitation applies to the maximum extent permitted by law.
 
-# **12. Governing Law, Dispute Resolution, and Arbitration**
+## 12. Governing Law, Dispute Resolution, and Arbitration
 
 ## **12.1 Governing Law**
 
@@ -1836,7 +1834,7 @@ This Section 12 survives:
 
 - expiration of these Terms.
 
-# **13. Changes to These Terms**
+## 13. Changes to These Terms
 
 ## **13.1 Right to Modify**
 
@@ -1917,11 +1915,11 @@ If there is a conflict between:
 
 **these Terms and the Terms of Monetization prevail.**
 
-# **14. Contact Information**
+## 14. Contact Information
 
 If you have any questions, concerns, notices, or legal inquiries regarding these Terms, the Service, or your account, you may contact Flaer at:
 
-**Flaer, Inc. **
+**Flaer, Inc.**
 251 Little Falls Drive  
 Wilmington, DE 19808  
 United States
